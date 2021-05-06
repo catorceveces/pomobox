@@ -15,7 +15,7 @@ An Arduino based Pomodoro tracker. 🤖
 * Jumper wires.
 
 <p align=“center”>
-  <img src=“pics/image.jpeg” width=“620” height=“310”>
+  <img src=“https://github.com/catorceveces/pomobox/blob/main/pics/image.jpeg” width=“620” height=“310”>
 </p>
 
 ### How it works?
@@ -26,5 +26,5 @@ Easy. Press play button and a red LED turns on, Arduino will start tracking your
 ### Scheme
 
 <p align=“center”>
-  <img src=“pics/scheme.png” width=“620” height=“310”>
+  <img src=“https://github.com/catorceveces/pomobox/blob/main/pics/scheme.png” width=“620” height=“310”>
 </p>
