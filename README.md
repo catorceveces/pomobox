@@ -26,5 +26,5 @@ Easy. Press play button and a red LED turns on, Arduino will start tracking your
 ### Scheme
 
 <p align=“center”>
-  <img src=“https://github.com/catorceveces/pomobox/blob/main/pics/scheme.png” width=“620” height=“310”>
+  <img width=“620” height=“310” src="https://github.com/catorceveces/pomobox/blob/main/pics/scheme.png">
 </p>
