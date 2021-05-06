@@ -15,7 +15,7 @@ An Arduino based Pomodoro tracker. 🤖
 * Jumper wires.
 
 <p align=“center”>
-  <img src=“https://imgur.com/a/Dpqf62q” width=“620” height=“310”>
+  <img width=“620” height=“310” src="https://github.com/catorceveces/pomobox/blob/main/pics/image.jpeg">
 </p>
 
 ### How it works?
